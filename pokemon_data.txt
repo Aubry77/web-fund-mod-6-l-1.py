@@ -1,0 +1,5 @@
+Name: pikachu, Abilities: static, lightning-rod
+Name: bulbasaur, Abilities: overgrow, chlorophyll
+Name: charmander, Abilities: blaze, solar-power
+
+Average Weight: 71.33333333333333 units
